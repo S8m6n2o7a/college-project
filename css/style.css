@@ -1,0 +1,123 @@
+body {
+    background-color: rgb(32, 29, 39);
+}
+
+h1 {
+    color: #fff;
+}
+
+h4 {
+    color: #fff;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+h5 {
+    font-size: 2rem;
+}
+
+
+/* main div */
+
+.main-container {
+    height: auto;
+    color: white;
+    margin: 2px auto;
+}
+
+
+/* logo Container */
+
+.logo-container {
+    text-align: center;
+}
+
+
+/* title image */
+
+.title-image {
+    margin-top: 20px;
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+/* button container */
+
+.button-container {
+    text-align: center;
+}
+
+
+/* Main Buttons(Home, Contact, etc) */
+
+.main-buttons {
+    padding: 15px 16px;
+    border-radius: 50px;
+    background-color: lightblue;
+}
+
+.main-buttons:hover {
+    background-color: aqua;
+}
+
+
+/* category container */
+
+.category-container {
+    height: auto;
+    border: 1px solid red;
+    border-radius: 20px;
+    float: right;
+    color: #fff;
+    font-size: 2rem;
+}
+
+.btn {
+    color: white;
+}
+
+.btn:hover {
+    color: blueviolet;
+}
+
+
+/* Game Images */
+
+.games {
+    height: 200px;
+    border-radius: 20px;
+}
+
+
+/* More button */
+
+.more {
+    padding: 15px 16px;
+    border-radius: 50px;
+    background-color: lightblue;
+}
+
+.more:hover {
+    background-color: aqua;
+}
+
+
+/* footer container */
+
+.footer-container {
+    padding: 20px;
+    border-radius: 20px;
+    height: 50px;
+    color: #fff;
+    text-align: center;
+    background-color: orangered;
+}
+
+#icon {
+    text-align: center;
+    margin-left: 20px;
+}
